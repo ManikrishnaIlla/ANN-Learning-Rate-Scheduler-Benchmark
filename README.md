@@ -252,6 +252,7 @@ python src/main.py predict --input data/test.csv --output outputs/myresults.csv
 ```
 
 **After predict:** Predictions are saved to `outputs/predictions.csv` (or your custom path). Each row contains the sample number, predicted probability (0.0 to 1.0), and predicted class label (0 or 1).
+
 ---
 
 ## Schedulers
